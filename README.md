@@ -100,6 +100,28 @@ Most nonprofits are still doing traditional SEO. This is the next layer.
 
 ---
 
+## Client Feedback & V2 Direction
+
+> *"Your situational analysis established a girls' education hook — but the campaign executions didn't follow through on it."*
+> — ADOL client debrief
+
+**The gap:** Situational analysis linked sanitation → girls' school attendance → dropout → generational poverty. Campaign executions pivoted to dignity/harassment instead.
+
+**V2 strategy (implemented):**
+
+The creative idea that was missing: **One Toilet Seat = One School Seat**. A toilet seat and a school chair are the same shape.
+
+| V2 Addition | What changed | Impact |
+|---|---|---|
+| `🎓 School Tile` | Monopoly game: 3 school tiles (positions 3/11/19), HP -20 without toilet, "+60 school days saved" metric | Education angle playable |
+| `School Days Preserved` | ImpactDashboard: new stat card tracking 60 days/yr per school toilet built (UNICEF data) | Impact quantified |
+| `Class Guardian tier` | CaaS 4th tier: HK$800/mo for school toilets, CSR report, attendance tracking | New donor segment unlocked |
+| `+31% metric` | Hero stat in dashboard, Bloomberg ticker | Situational analysis promise fulfilled |
+
+**Key insight:** Girls miss up to 5 school days/month without sanitation facilities = 60 days/year (UNICEF 2024). This number is now surfaced in the game and dashboard. The campaign's original promise is now visible in every product.
+
+---
+
 ## Context
 
 Produced as the final project for **CUHK COMM3400B: Integrated Strategic Campaign II** (JLM Pinpoint Practicum), in partnership with ADOL.  
