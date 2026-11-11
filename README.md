@@ -4,13 +4,15 @@
 
 **A full-stack IMC campaign for a real NGO — from strategy to deployed code.**
 
-[![Impact Dashboard](https://img.shields.io/badge/📊_Impact_Dashboard-Live-00A9E0?style=for-the-badge)](https://beltran12138.github.io/the-way-impact-dashboard/)
-[![Monopoly Game](https://img.shields.io/badge/🎮_Monopoly_Game-Play_Now-5EAB78?style=for-the-badge)](https://cambodia-toilet-monopoly.vercel.app)
+[![Impact Dashboard](https://img.shields.io/badge/📊_Impact_Dashboard-Live-00A9E0?style=for-the-badge)](https://beltran12138.github.io/the-way-campaign/dashboard/)
+[![Monopoly Game](https://img.shields.io/badge/🎮_Monopoly_Game-Source-5EAB78?style=for-the-badge)](game/)
 [![Client](https://img.shields.io/badge/Client-ADOL_NGO-FFD166?style=for-the-badge)](https://adropoflife.org)
 
 *CUHK COMM3400B · World Toilet Day 2026 · Real client, real deliverables*
 
 </div>
+
+> **Disclaimer.** Student coursework (CUHK COMM3400B). Not affiliated with or endorsed by A Drop of Life (ADOL). The dashboard is a concept demo: it collects no money, and all donor records, prices and charts are illustrative. Figures quoted from literature are category-level estimates, not evaluations of ADOL.
 
 ---
 
@@ -27,8 +29,8 @@ Built for **ADOL (A Drop of Life)**, a Hong Kong NGO building sanitation infrast
 
 | Product | Stack | Live |
 |---|---|---|
-| **Impact Dashboard** | HTML/JS · Supabase · Chart.js · Canvas 2D · DeepSeek AI | [GitHub Pages →](https://beltran12138.github.io/the-way-impact-dashboard/) |
-| **Monopoly Game** | React 18 · TypeScript · Vite · Tailwind · Canvas API | [Vercel →](https://cambodia-toilet-monopoly.vercel.app) |
+| **Impact Dashboard** | HTML/JS · Chart.js · Canvas 2D (static, no backend) | [GitHub Pages →](https://beltran12138.github.io/the-way-campaign/dashboard/) |
+| **Monopoly Game** | React 18 · TypeScript · Vite · Tailwind · Canvas API | [Source →](game/) (run locally: `cd game && npm install && npm run dev`) |
 
 ---
 
@@ -121,6 +123,17 @@ The creative idea that was missing: **One Toilet Seat = One School Seat**. A toi
 **Key insight:** Girls miss up to 5 school days/month without sanitation facilities = 60 days/year (UNICEF 2024). This number is now surfaced in the game and dashboard. The campaign's original promise is now visible in every product.
 
 ---
+
+## Repository layout
+
+```
+├── README.md
+├── strategy_engine.html   # growth-flywheel strategy visualisation
+├── dashboard/             # impact dashboard (static, served by GitHub Pages)
+└── game/                  # Cambodia Toilet Monopoly (React + Vite source)
+```
+
+The dashboard and game previously lived in separate repos (`the-way-impact-dashboard`, `cambodia-toilet-monopoly`); they were consolidated here in 2026-11.
 
 ## Context
 
